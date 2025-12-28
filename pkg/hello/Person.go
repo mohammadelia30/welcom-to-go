@@ -3,5 +3,5 @@ package hello
 import "fmt"
 
 func Person(name string) {
-	fmt.Print(hello(),"",name)
+	fmt.Print(hello()," ",name)
 }
