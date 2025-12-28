@@ -3,5 +3,5 @@ package hello
 
 
 func hello() string {
-    return "Hello World"
+    return "Hello"
 }
